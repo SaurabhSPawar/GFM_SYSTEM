@@ -1,0 +1,17 @@
+body{
+background-color:  #2A3F54;
+}
+
+.logincreataccount{ margin-left: 10%;}
+.logincreataccount:hover{
+color:white;
+text-decoration: none;
+	}
+	.signin{
+		margin-left: 10%;
+		text-decoration: none;
+	}
+	.signin:hover{
+		color:white;
+		text-decoration: none;
+	}

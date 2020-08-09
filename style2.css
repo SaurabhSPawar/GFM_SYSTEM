@@ -1,0 +1,174 @@
+body{
+background-color:  #2A3F54;
+}
+
+.submit-key-a1:hover{
+color:white;
+}
+ .submit-key-a2:hover{
+color:white;
+}
+.header-login{
+	margin-top: 50px;
+}
+.span-login{
+	color:#b1b1c2; 
+	text-align: center;
+	font-weight: bold;
+	 font-size: 50px;
+	 margin-left:43%;
+	 margin-top: 18%;
+}
+.main-login{
+	background-color: #051B26; 
+	width:480px;
+	height: 400px;
+	 border: 1px solid transperent;
+	 text-align:center;
+	 margin-left:35%;
+	 margin-top:12px;
+	border-radius: 10px;
+}
+.header-div{
+	 border-bottom: 1px solid transperent;
+	 color:white;
+	 width:179.999px;
+	 height:29px;
+	 margin-top:30px;
+	 margin-left:150px
+}
+.header-name{
+	 border: 1px solid transperent;
+	 font-size: 30px;
+	 font-weight: bold;
+}
+.log-user-fa{
+	color:white;
+	padding: 12px;
+	background-color: #2A3F54;
+	margin-left:12px;
+}
+.log-userid{
+	width:400px;
+	height: 40px;
+}
+.log-password-fa{
+	color:white;
+	padding: 12px;
+	background-color: #2A3F54;
+	margin-left:13px;
+}
+.log-password{
+	width:400px;
+	height: 40px;
+	margin-left:-4px
+}
+.log-submit-key{
+color:white;
+margin-top: 42px;
+}
+.log-submit-a1{
+	text-decoration: none;
+	color: white;
+	border: 1px solid transperent;
+	background-color:#2A3F54;
+	padding: 14px 16px;
+}
+.log-submit-a3{
+	text-decoration: none;
+	 color:white;
+	margin-left:40px;
+}
+.log-submit-a2{
+
+	text-decoration: none;
+	margin-left:40px;
+}
+.main-signup{
+	background-color: #051B26;
+	width:480px;height: 740px;
+	border: 1px solid transperent;
+	text-align:center;
+	margin-left:35%;
+	margin-top:2px;
+	border-radius: 10px;
+}
+.signup-header-div{
+border-bottom: 1px solid transperent;
+color:white;
+width:179.999px;
+height:29px;
+margin-top:0px;
+margin-left:150px
+}
+.signup-header-name{
+	border: 1px solid transperent;
+	font-size: 30px;
+	font-weight: bold;
+}
+.signup-name-fa{
+	color:white;
+	padding: 12px;
+	background-color: #2A3F54;
+	margin-left:12px;
+}
+.signup-name{
+	width:400px;
+	 height: 40px;
+	 margin-left: -4px;
+}
+.signup-email-fa{
+	color:white;
+	padding: 12px;
+	background-color: #2A3F54;
+	margin-left:12px;
+}
+.signup-email{
+width:400px;
+height: 40px;
+ margin-left: -4px;	
+}
+.signup-password-fa{
+	color:white;
+	 padding: 12px;
+	 background-color: #2A3F54;
+	 margin-left:12px;
+}
+.signup-fa{
+	width:400px;
+	height: 40px;
+}
+.signup-password{
+	width:400px;
+	height: 40px;
+	 margin-left: -4px;
+}
+.signup-dept{
+	width:400px;
+	height: 40px;
+	 margin-left: -4px;
+}
+
+.signup-dept-fa{
+	color:white;
+	 padding: 12px;
+	 background-color: #2A3F54;
+	 margin-left:12px;
+}
+.signup-submit-key{
+	color:white;
+	margin-top: 25px;
+}
+.sign-submit-a2{
+text-decoration: none;
+color: white;
+/*border: 1px solid transperent;*/
+border: none;
+background-color:#2A3F54;
+padding: 14px 16px;
+margin-left:40px;
+}
+.sign-submit-a1{
+	text-decoration: none;
+	margin-left: 40px;
+}

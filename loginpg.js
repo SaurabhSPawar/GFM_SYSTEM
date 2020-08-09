@@ -1,0 +1,14 @@
+$(document).ready(function(){
+$(".loginpg").hide();
+$(".signuppg").show();
+$(".go-signin-an-account").click(function(){
+$(".loginpg").show(1000);
+$(".signuppg").hide(1000);
+});
+$(".loginpg").show();
+$(".signuppg").hide();
+$(".go-create-an-account").click(function(){
+$(".signuppg").show(1000);
+$(".loginpg").hide(1000);
+});
+});
